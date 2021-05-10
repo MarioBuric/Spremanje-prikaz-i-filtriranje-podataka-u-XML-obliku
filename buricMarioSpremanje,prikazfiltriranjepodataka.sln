@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buricMarioSpremanje,prikazfiltriranjepodataka", "buricMarioSpremanje,prikazfiltriranjepodataka\buricMarioSpremanje,prikazfiltriranjepodataka.csproj", "{0D4B4D55-4181-4ADD-9C8A-2A1E7BBF9F05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D4B4D55-4181-4ADD-9C8A-2A1E7BBF9F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4B4D55-4181-4ADD-9C8A-2A1E7BBF9F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4B4D55-4181-4ADD-9C8A-2A1E7BBF9F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4B4D55-4181-4ADD-9C8A-2A1E7BBF9F05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D2DAB99-7076-495F-B58A-C43C5EDCDD33}
+	EndGlobalSection
+EndGlobal
